@@ -1,5 +1,5 @@
 {
-  "name": "ibc-app-solidity-template",
+  "name": "keqing",
   "version": "1.0.0",
   "description": "Template project to start building IBC enabled Solidity contracts, with Hardhat and Foundry support",
   "main": "index.js",
@@ -8,18 +8,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/open-ibc/ibc-app-solidity-template.git"
+    "url": "https://github.com/VerssX/keqing.git"
   },
   "keywords": [
     "IBC",
     "Solidity"
   ],
-  "author": "Polymer Labs",
+  "author": "Keqing",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/open-ibc/ibc-app-solidity-template/issues"
+    "url": "https://github.com/VerssX/keqing/issues"
   },
-  "homepage": "https://github.com/open-ibc/ibc-app-solidity-template#readme",
+  "homepage": "https://github.com/VerssX/keqing#readme",
   "devDependencies": {
     "@nomicfoundation/hardhat-foundry": "^1.1.1",
     "@nomicfoundation/hardhat-toolbox": "^4.0.0",
